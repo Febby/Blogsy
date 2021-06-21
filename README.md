@@ -2,6 +2,8 @@
 
 This app will allow user to submit their favorite blogs so that they can view the latest posts from a list of approved blogs.
 
+You can view the site [here](http://blogsy.vercel.app/)
+
 
 ## How it works?
 
