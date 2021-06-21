@@ -1,3 +1,17 @@
+## What is Blogsy?
+
+This app will allow user to submit their favorite blogs so that they can view the latest posts from a list of approved blogs.
+
+
+## How it works?
+
+1. Click on the [Add New Blog](https://blogsy.vercel.app/form) 
+2. Enter all the necessary details, make sure that you include valid RSS url like this `https://www.blogurlexample.com/feeds/news`
+3. Once it's approved, you would be able to see the latest post of your blog.
+
+
+## Dev Note
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
