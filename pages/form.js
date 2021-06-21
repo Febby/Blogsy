@@ -53,7 +53,7 @@ const Form = () => {
           Add your favorite blog RSS down below
         </p>
         <p>
-          <Link href="/form">
+          <Link href="/">
             <p className="underline cursor-pointer mt-2">
               <a>Back to Homepage</a>
             </p>
