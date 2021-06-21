@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import Router from 'next/router';
 
-const blogsyForm = () => {
+const Form = () => {
   //define local state hooks for each form element:
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -156,4 +156,4 @@ const blogsyForm = () => {
   );
 };
 
-export default blogsyForm;
+export default Form;
